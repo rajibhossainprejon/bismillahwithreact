@@ -1,0 +1,22 @@
+.mainlogo img {
+    height: 80px ;
+    margin-bottom: 20px;
+}
+.mainlogo{
+    text-align: center;
+}
+.header a {
+
+    text-decoration: none;
+    margin: 30px;
+    color: white;
+    padding: 20px;
+    
+}
+.header a:hover{
+    color: wheat;
+}
+.header nav{
+    background-color: black;
+    line-height: 36px;
+}

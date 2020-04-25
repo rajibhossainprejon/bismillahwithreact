@@ -1,0 +1,33 @@
+.products{
+    display: flex;
+    border-bottom: 2px solid lightgray;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+.products img{
+    
+    margin-right: 20px;
+}
+
+.data{
+    margin-left: 20px;
+    color: lightslategray;
+}
+.productname{
+    color: mediumblue;
+    font-weight: 600;
+}
+.productname :hover{
+
+color: mediumpurple;
+}
+#add-cart{
+    color: black;
+    background-color: goldenrod;
+    width: 200px;
+    height:  40px;
+    margin: 10px;
+    font-weight: 300;
+    border-radius: 5px;
+    border: 1px solid black;
+}
